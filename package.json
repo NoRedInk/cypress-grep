@@ -1,6 +1,6 @@
 {
   "name": "@noredink/cypress-grep",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Filter tests using tags and title substrings.",
   "main": "src/support",
   "files": [
